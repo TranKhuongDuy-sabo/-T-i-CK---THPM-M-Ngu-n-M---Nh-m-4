@@ -16,7 +16,7 @@ int hieu(int a, int b){
 	return hieu;
 }
 
-//Themfile de lam ne ae
+//Themfile de lam ne ae kkk
 
 int main()
 {
