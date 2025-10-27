@@ -5,7 +5,7 @@ int tong(int a, int b);
 int hieu(int a, int b);
 int tich(int a, int b);
 float thuong(int a, int b);
-<<<<<<< HEAD
+
 int tich(int a, int b){
 	tich=a*b;
 	return tich;
@@ -16,7 +16,7 @@ int hieu(int a, int b){
 	return hieu;
 }
 
-//Themfile
+//Themfile de lam ne ae
 
 int main()
 {
